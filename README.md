@@ -92,23 +92,6 @@ My personal developer portfolio and experiments with modern web technologies.
 
 ---
 
-## 📈 Current Learning Path
-
-```mermaid
-flowchart TD
-    A["DSA (C++)"] --> B["Web Development"]
-    B --> C["JavaScript → TypeScript → React"]
-    C --> D["Backend Development"]
-    D --> E["Python → FastAPI → Databases"]
-    E --> F["AI / LLM Integration"]
-    F --> G["Full-Stack AI Applications"]
-
-    style A fill:#1f6feb,color:#fff,stroke:#58a6ff
-    style G fill:#8957e5,color:#fff,stroke:#d2a8ff
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
