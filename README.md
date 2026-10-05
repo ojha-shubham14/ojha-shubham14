@@ -119,7 +119,7 @@ I enjoy learning by building projects, solving DSA problems, and experimenting w
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-ojha14/">
+  <a href="https://www.linkedin.com/in/shubham-ojha14/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ojhashubhamprofessional@gmail.com">
@@ -128,7 +128,7 @@ I enjoy learning by building projects, solving DSA problems, and experimenting w
   <a href="https://github.com/ojha-shubham14">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://https://ojha-shubham14.github.io/Portfolio/">
+  <a href="https://ojha-shubham14.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
