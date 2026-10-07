@@ -31,22 +31,6 @@ I enjoy learning by building projects, solving DSA problems, and experimenting w
 
 ---
 
-<h2 align="center">🧑‍💻 <code>developer.json</code></h2>
-
-```json
-{
-  "name": "Shubham Ojha",
-  "role": "Computer Science Engineering Student",
-  "focus": ["Web Development", "Backend Engineering", "AI / LLM"],
-  "languages": ["C++", "Python", "Java", "JavaScript", "TypeScript"],
-  "currentlyLearning": ["DSA", "FastAPI", "SQL", "AI / LLM Integration"],
-  "learningStyle": "Learn by building projects",
-  "status": "Building. Learning. Repeating. 🔁"
-}
-```
-
----
-
 <h2 align="center">🚀 What I'm Working On</h2>
 
 <p align="center">
