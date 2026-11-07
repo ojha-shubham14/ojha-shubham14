@@ -88,7 +88,7 @@ I enjoy learning by building projects, solving DSA problems, and experimenting w
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ojha-shubham14&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojha-shubham14&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ojha-shubham14&show_icons=true&theme=tokyonight)
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ojha-shubham14&theme=tokyonight&hide_border=true" alt="GitHub streak" />
